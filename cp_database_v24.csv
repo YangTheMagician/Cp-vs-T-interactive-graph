@@ -1,0 +1,286 @@
+Category,Material,Formula,Composition,Phase,Polynomial_Type,Fit_Type,C1,C2,C3,C4,C5,C6,C7,T_min,T_max,Units,Molar_Mass,Molar_Basis,Data_Source
+Ceramic,Hafnium Carbide,HfC,NaN,Solid,Shomate,measured range,51.0448,3.7656,0.0,0.0,-1.2552,0.0,0.0,298,4100,J/mol·K,190.501,molecular,NIST-JANAF
+Ceramic,Mullite (298-1700K),Al6O13Si2,NaN,Solid,Shomate,measured range,329.8585,386.149,-254.575,61.3454,-8.7825,0.0,0.0,298,1700,J/mol·K,426.049,molecular,NIST-JANAF
+Ceramic,Mullite (1700-3000K),Al6O13Si2,NaN,Solid,Shomate,measured range,691.7784,-125.251,44.1943,-3.9711,-113.6717,0.0,0.0,1700,3000,J/mol·K,426.049,molecular,NIST-JANAF
+Ceramic,Niobium Carbide,NbC,NaN,Solid,Shomate,measured range,36.233,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,104.917,molecular,NIST-JANAF
+Ceramic,Tantalum Carbide,TaC,NaN,Solid,Shomate,measured range,44.29224,7.673707,-0.091309,0.010861,-0.875548,0.0,0.0,298,4273,J/mol·K,192.959,molecular,NIST-JANAF
+Ceramic,Titanium Diboride,TiB2,NaN,Solid,Shomate,measured range,52.33265,33.69444,-7.90931,0.80407,-1.5413,0.0,0.0,298,3193,J/mol·K,69.487,molecular,NIST-JANAF
+Ceramic,Titanium Nitride,TiN,NaN,Solid,Shomate,measured range,50.40716,0.59651,2.94476,-0.30501,-1.20968,0.0,0.0,298,3220,J/mol·K,61.874,molecular,NIST-JANAF
+Ceramic,Zirconium Diboride,ZrB2,NaN,Solid,Shomate,measured range,66.96241,5.66501,1.433879,-0.151665,-1.835999,0.0,0.0,298,3323,J/mol·K,112.846,molecular,NIST-JANAF
+Ceramic,Zirconium Nitride,ZrN,NaN,Solid,Shomate,measured range,46.45788,7.006317,0.007791,-0.000719,-0.720527,0.0,0.0,298,3225,J/mol·K,105.231,molecular,NIST-JANAF
+Element,Chlorine (1000-3000K),Cl2,NaN,Gas,Shomate,measured range,42.6773,-5.00957,1.904621,-0.165641,-2.09848,0.0,0.0,1000,3000,J/mol·K,70.906,molecular,NIST-JANAF
+Element,Chlorine (298-1000K),Cl2,NaN,Gas,Shomate,measured range,33.0506,12.2294,-12.0651,4.38533,-0.159494,0.0,0.0,298,1000,J/mol·K,70.906,molecular,NIST-JANAF
+Element,Fluorine,F2,NaN,Gas,Shomate,measured range,31.4451,8.413831,-2.77885,0.218104,-0.211175,0.0,0.0,298,6000,J/mol·K,37.9968064,molecular,NIST-JANAF
+Element,Hydrogen (1000-2500K),H2,NaN,Gas,Shomate,measured range,18.563083,12.257357,-2.859786,0.268238,1.97799,0.0,0.0,1000,2500,J/mol·K,2.01588,molecular,NIST-JANAF
+Element,Hydrogen (298-1000K),H2,NaN,Gas,Shomate,measured range,33.066178,-11.363417,11.432816,-2.772874,-0.158558,0.0,0.0,298,1000,J/mol·K,2.01588,molecular,NIST-JANAF
+Element,Nitrogen (100-500K),N2,NaN,Gas,Shomate,measured range,28.98641,1.853978,-9.647459,16.63537,0.000117,0.0,0.0,100,500,J/mol·K,28.0134,molecular,NIST-JANAF
+Element,Nitrogen (2000-6000K),N2,NaN,Gas,Shomate,measured range,35.51872,1.128728,-0.196103,0.014662,-4.55376,0.0,0.0,2000,6000,J/mol·K,28.0134,molecular,NIST-JANAF
+Element,Nitrogen (500-2000K),N2,NaN,Gas,Shomate,measured range,19.50583,19.88705,-8.598535,1.369784,0.527601,0.0,0.0,500,2000,J/mol·K,28.0134,molecular,NIST-JANAF
+Element,Oxygen (100-700K),O2,NaN,Gas,Shomate,measured range,31.32234,-20.23531,57.86644,-36.50624,-0.007374,0.0,0.0,100,700,J/mol·K,31.9988,molecular,NIST-JANAF
+Element,Oxygen (2000-6000K),O2,NaN,Gas,Shomate,measured range,20.91111,10.72071,-2.020498,0.146449,9.245722,0.0,0.0,2000,6000,J/mol·K,31.9988,molecular,NIST-JANAF
+Element,Oxygen (700-2000K),O2,NaN,Gas,Shomate,measured range,30.03235,8.772972,-3.988133,0.788313,-0.741599,0.0,0.0,700,2000,J/mol·K,31.9988,molecular,NIST-JANAF
+Element,Aluminum,Al,NaN,Solid,Shomate,measured range,28.09,-5.414,8.56,3.427,-0.277,0.0,0.0,298,933,J/mol·K,26.982,molecular,NIST-JANAF
+Element,Antimony,Sb,NaN,Solid,Shomate,measured range,25.20432,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,121.76,molecular,NIST-JANAF
+Element,Barium,Ba,NaN,Solid,Shomate,measured range,26.1552,28.6014,-23.6836,6.95217,1.041351,0.0,0.0,768,1000,J/mol·K,137.327,molecular,NIST-JANAF
+Element,Bismuth,Bi,NaN,Solid,Shomate,measured range,25.49556,0.0,0.0,0.0,0.0,0.0,0.0,298,544,J/mol·K,208.98,molecular,NIST-JANAF
+Element,Cesium,Cs,NaN,Solid,Shomate,measured range,57.04424,-50.0034,48.5595,-16.72822,-1.223804,0.0,0.0,298,301,J/mol·K,132.9054519,molecular,NIST-JANAF
+Element,Chromium (298-600K),Cr,NaN,Solid,Shomate,measured range,7.48974,71.50506,-91.67562,46.0445,0.13816,0.0,0.0,298,600,J/mol·K,51.996,molecular,NIST-JANAF
+Element,Chromium (600-2130K),Cr,NaN,Solid,Shomate,measured range,18.46509,5.47799,7.90433,-1.14785,1.26579,0.0,0.0,600,2130,J/mol·K,51.996,molecular,NIST-JANAF
+Element,Cobalt (1394-1768K),Co,NaN,Solid,Shomate,measured range,-12418.9,15326.4,-7087.15,1167.31,3319.77,0.0,0.0,1394,1768,J/mol·K,58.933,molecular,NIST-JANAF
+Element,Cobalt (298-700K),Co,NaN,Solid,Shomate,measured range,10.9943,54.375,-55.5132,25.817,0.164533,0.0,0.0,298,700,J/mol·K,58.933,molecular,NIST-JANAF
+Element,Cobalt (700-1394K),Co,NaN,Solid,Shomate,measured range,-204.576,515.582,-421.55,129.558,17.9267,0.0,0.0,700,1394,J/mol·K,58.933,molecular,NIST-JANAF
+Element,Copper,Cu,NaN,Solid,Shomate,measured range,17.72891,28.0987,-31.25289,13.97243,0.06861,0.0,0.0,298,1358,J/mol·K,63.546,molecular,NIST-JANAF
+Element,Gallium,Ga,NaN,Solid,Shomate,measured range,102.3394,-347.5134,603.3621,-360.7047,-1.490304,0.0,0.0,298,302,J/mol·K,69.723,molecular,NIST-JANAF
+Element,Gold,Au,NaN,Solid,Shomate,measured range,25.408743,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,196.967,molecular,NIST-JANAF
+Element,Iron (1042-1100K),Fe,NaN,Solid,Shomate,measured range,-325.8859,28.92876,0.0,0.0,411.9629,0.0,0.0,1042,1100,J/mol·K,55.845,molecular,NIST-JANAF
+Element,Iron (1100-1809K),Fe,NaN,Solid,Shomate,measured range,-776.7387,919.4005,-383.7184,57.08148,242.1369,0.0,0.0,1100,1809,J/mol·K,55.845,molecular,NIST-JANAF
+Element,Iron (298-700K),Fe,NaN,Solid,Shomate,measured range,18.42868,24.64301,-8.91372,9.66471,-0.01264,0.0,0.0,298,700,J/mol·K,55.845,molecular,NIST-JANAF
+Element,Iron (700-1042K),Fe,NaN,Solid,Shomate,measured range,-57767.65,137919.7,-122773.2,38682.42,3993.08,0.0,0.0,700,1042,J/mol·K,55.845,molecular,NIST-JANAF
+Element,Lead,Pb,NaN,Solid,Shomate,measured range,25.0145,5.441836,4.061367,-1.236214,-0.010657,0.0,0.0,298,600,J/mol·K,207.2,molecular,NIST-JANAF
+Element,Lithium,Li,NaN,Solid,Shomate,measured range,169.552,-882.711,1977.438,-1487.312,-1.609635,0.0,0.0,298,453,J/mol·K,6.941,molecular,NIST-JANAF
+Element,Magnesium,Mg,NaN,Solid,Shomate,measured range,26.54083,-1.533048,8.062443,0.57217,-0.174221,0.0,0.0,298,923,J/mol·K,24.305,molecular,NIST-JANAF
+Element,Manganese (1361-1412K),Mn,NaN,Solid,Shomate,measured range,19.0645,31.4134,-14.9935,3.21474,1.86689,0.0,0.0,1361,1412,J/mol·K,54.938,molecular,NIST-JANAF
+Element,Manganese (1412-1519K),Mn,NaN,Solid,Shomate,measured range,-534.174,678.453,-296.37,46.4426,161.386,0.0,0.0,1412,1519,J/mol·K,54.938,molecular,NIST-JANAF
+Element,Manganese (298-980K),Mn,NaN,Solid,Shomate,measured range,27.2419,5.23764,7.78316,-2.1185,-0.28212,0.0,0.0,298,980,J/mol·K,54.938,molecular,NIST-JANAF
+Element,Manganese (980-1361K),Mn,NaN,Solid,Shomate,measured range,52.2987,-28.6756,21.4867,-4.97985,-2.43206,0.0,0.0,980,1361,J/mol·K,54.938,molecular,NIST-JANAF
+Element,Molybdenum (1900-2896K),Mo,NaN,Solid,Shomate,measured range,1231.192,-963.4246,283.7292,-28.041,-712.2047,0.0,0.0,1900,2896,J/mol·K,95.95,molecular,NIST-JANAF
+Element,Molybdenum (298-1900K),Mo,NaN,Solid,Shomate,measured range,24.72736,3.960425,-1.270706,1.153065,-0.170246,0.0,0.0,298,1900,J/mol·K,95.95,molecular,NIST-JANAF
+Element,Nickel (298-600K),Ni,NaN,Solid,Shomate,measured range,13.6916,82.49309,-174.9548,161.6011,-0.09242,0.0,0.0,298,600,J/mol·K,58.693,molecular,NIST-JANAF
+Element,Nickel (600-700K),Ni,NaN,Solid,Shomate,measured range,1248.045,-1257.51,0.0,0.0,-165.127,0.0,0.0,600,700,J/mol·K,58.693,molecular,NIST-JANAF
+Element,Nickel (700-1728K),Ni,NaN,Solid,Shomate,measured range,16.49839,18.74913,-6.64025,1.71728,1.87205,0.0,0.0,700,1728,J/mol·K,58.693,molecular,NIST-JANAF
+Element,Niobium,Nb,NaN,Solid,Shomate,measured range,22.0143,9.88816,-5.64853,1.759691,0.021839,0.0,0.0,298,2750,J/mol·K,92.90638,molecular,NIST-JANAF
+Element,Palladium,Pd,NaN,Solid,Shomate,measured range,25.96648,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,106.42,molecular,NIST-JANAF
+Element,Platinum,Pt,NaN,Solid,Shomate,measured range,25.946172,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,195.084,molecular,NIST-JANAF
+Element,Potassium,K,NaN,Solid,Shomate,measured range,-63.4741,-3226.34,14644.6,-16229.5,16.2941,0.0,0.0,298,336,J/mol·K,39.0983,molecular,NIST-JANAF
+Element,Rubidium,Rb,NaN,Solid,Shomate,measured range,9.44626,65.31182,45.5123,-26.78961,-0.10773,0.0,0.0,298,312,J/mol·K,85.4678,molecular,NIST-JANAF
+Element,Selenium,Se,NaN,Solid,Shomate,measured range,25.349691,0.0,0.0,0.0,0.0,0.0,0.0,298,494,J/mol·K,78.971,molecular,NIST-JANAF
+Semiconductor,Silicon,Si,NaN,Solid,Shomate,measured range,22.81719,3.89951,-0.08289,0.04211,-0.35406,0.0,0.0,298,1685,J/mol·K,28.085,molecular,NIST-JANAF
+Element,Sodium,Na,NaN,Solid,Shomate,measured range,72.63675,-9.491572,-730.9322,1414.518,-1.259377,0.0,0.0,298,370,J/mol·K,22.98976928,molecular,NIST-JANAF
+Element,Tantalum (1300-3258K),Ta,NaN,Solid,Shomate,measured range,-43.87133,73.02084,-27.40796,4.004682,26.30414,0.0,0.0,1300,3258,J/mol·K,180.94788,molecular,NIST-JANAF
+Element,Tantalum (298-1300K),Ta,NaN,Solid,Shomate,measured range,20.69482,17.29992,-15.68987,5.608694,0.061581,0.0,0.0,298,1300,J/mol·K,180.94788,molecular,NIST-JANAF
+Element,Tellurium,Te,NaN,Solid,Shomate,measured range,25.6476,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,127.6,molecular,NIST-JANAF
+Element,Titanium (1155-1939K),Ti,NaN,Solid,Shomate,measured range,23.0566,5.54133,-2.05588,1.61174,-0.05609,0.0,0.0,1155,1939,J/mol·K,47.867,molecular,NIST-JANAF
+Element,Titanium (298-700K),Ti,NaN,Solid,Shomate,measured range,22.61944,18.98795,-18.18735,7.08079,-0.14346,0.0,0.0,298,700,J/mol·K,47.867,molecular,NIST-JANAF
+Element,Titanium (700-1155K),Ti,NaN,Solid,Shomate,measured range,44.37174,-44.09225,31.70523,0.05221,0.03617,0.0,0.0,700,1155,J/mol·K,47.867,molecular,NIST-JANAF
+Element,Tungsten (1900-3680K),W,NaN,Solid,Shomate,measured range,-22.5764,90.2798,-44.2715,7.17663,-24.0974,0.0,0.0,1900,3680,J/mol·K,183.84,molecular,NIST-JANAF
+Element,Tungsten (298-1900K),W,NaN,Solid,Shomate,measured range,23.9593,2.63968,1.25775,-0.254642,-0.048407,0.0,0.0,298,1900,J/mol·K,183.84,molecular,NIST-JANAF
+Element,Vanadium,V,NaN,Solid,Shomate,measured range,26.30167,1.396587,2.214139,0.403977,-0.176428,0.0,0.0,298,2190,J/mol·K,50.9415,molecular,NIST-JANAF
+Element,Zinc,Zn,NaN,Solid,Shomate,measured range,25.60123,-4.405292,20.42206,-7.399697,-0.045801,0.0,0.0,298,692,J/mol·K,65.38,molecular,NIST-JANAF
+Element,Zirconium (298-800K),Zr,NaN,Solid,Shomate,measured range,25.3924,0.43423,4.38454,1.01712,-0.06546,0.0,0.0,298,800,J/mol·K,91.224,molecular,NIST-JANAF
+Element,Zirconium (800-2125K),Zr,NaN,Solid,Shomate,measured range,22.00089,2.21189,0.41063,0.70537,2.92714,0.0,0.0,800,2125,J/mol·K,91.224,molecular,NIST-JANAF
+Ceramic,Aluminum Nitride (298-900K),AlN,NaN,Solid,Shomate,measured range,17.23264,85.63811,-83.2729,29.63427,-0.537933,0.0,0.0,298,900,J/mol·K,40.9882,molecular,NIST-JANAF
+Ceramic,Aluminum Nitride (900-3000K),AlN,NaN,Solid,Shomate,measured range,49.78374,2.238047,-0.742003,0.087952,-2.813004,0.0,0.0,900,3000,J/mol·K,40.9882,molecular,NIST-JANAF
+Inorganic Compound,Ammonia (gas),NH3,NaN,Gas,Shomate,measured range,19.99563,49.77119,-15.37599,1.921168,0.189174,0.0,0.0,298,1400,J/mol·K,17.031,molecular,NIST-JANAF
+Ceramic,Boron Carbide (NIST-JANAF),B4C,NaN,Solid,Shomate,measured range,95.99853,23.16513,-0.409604,0.081414,-4.395208,0.0,0.0,298,2743,J/mol·K,55.255,molecular,NIST-JANAF
+Ceramic,Boron Nitride (hexagonal) (1100-3500K),BN,NaN,Solid,Shomate,measured range,78.1475,-23.33367,6.844396,-0.699753,-17.04034,0.0,0.0,1100,3500,J/mol·K,24.818,molecular,NIST-JANAF
+Ceramic,Boron Nitride (hexagonal) (298-1100K),BN,NaN,Solid,Shomate,measured range,-1.626426,101.9817,-81.52482,25.65093,-0.223052,0.0,0.0,298,1100,J/mol·K,24.818,molecular,NIST-JANAF
+Inorganic Compound,Calcium Oxide,CaO,NaN,Solid,Shomate,measured range,49.95403,4.887916,-0.352056,0.046187,-0.825097,0.0,0.0,298,3200,J/mol·K,56.077,molecular,NIST-JANAF
+Inorganic Compound,Carbon Dioxide,CO2,NaN,Gas,Shomate,measured range,24.99735,55.18696,-33.69137,7.948387,-0.136638,0.0,0.0,298,1200,J/mol·K,44.009,molecular,NIST-JANAF
+Inorganic Compound,Carbon Monoxide,CO,NaN,Gas,Shomate,measured range,25.56759,6.09613,4.054656,-2.671301,0.131021,0.0,0.0,298,1300,J/mol·K,28.01,molecular,NIST-JANAF
+Inorganic Compound,Copper(II) Oxide,CuO,NaN,Solid,Shomate,measured range,48.56494,7.498607,-0.05598,0.013851,-0.760082,0.0,0.0,298,2000,J/mol·K,79.545,molecular,NIST-JANAF
+Inorganic Compound,Hematite (Fe2O3),Fe2O3,NaN,Solid,Shomate,measured range,110.9362,32.04714,-9.192333,0.901506,5.433677,0.0,0.0,1050,2500,J/mol·K,159.688,molecular,NIST-JANAF
+Inorganic Compound,Hydrochloric Acid,HCl,NaN,Gas,Constant,"point value, range by convention",29.14,0.0,0.0,0.0,0.0,0.0,0.0,273,323,J/mol·K,36.458,molecular,NIST-JANAF
+Inorganic Compound,Lithium Fluoride,LiF,NaN,Solid,Shomate,measured range,41.75837,18.7111,0.693674,-0.992621,-0.487055,0.0,0.0,298,1121,J/mol·K,25.939,molecular,NIST-JANAF
+Inorganic Compound,Magnesium Oxide,MgO,NaN,Solid,Shomate,measured range,47.25995,5.681621,-0.872665,0.1043,-1.053955,0.0,0.0,298,3105,J/mol·K,40.3044,molecular,NIST-JANAF
+Inorganic Compound,Nitric Oxide,NO,NaN,Gas,Constant,"point value, range by convention",29.86,0.0,0.0,0.0,0.0,0.0,0.0,273,323,J/mol·K,30.006,molecular,NIST-JANAF
+Inorganic Compound,Nitrous Oxide,N2O,NaN,Gas,Constant,"point value, range by convention",38.62,0.0,0.0,0.0,0.0,0.0,0.0,273,323,J/mol·K,44.013,molecular,NIST-JANAF
+Inorganic Compound,Potassium Chloride (298-900K),KCl,NaN,Solid,Shomate,measured range,35.41597,70.03472,-91.38233,52.52426,0.15346,0.0,0.0,298,900,J/mol·K,74.551,molecular,NIST-JANAF
+Inorganic Compound,Potassium Chloride (900-1044K),KCl,NaN,Solid,Shomate,measured range,-717.3845,1247.861,-708.5144,141.4435,103.6712,0.0,0.0,900,1044,J/mol·K,74.551,molecular,NIST-JANAF
+Ceramic,Silicon Carbide (298-1100K),SiC,NaN,Solid,Shomate,measured range,20.50009,63.3717,-49.54023,14.82801,-0.759969,0.0,0.0,298,1100,J/mol·K,40.0962,molecular,NIST-JANAF
+Inorganic Compound,Sodium Chloride,NaCl,NaN,Solid,Shomate,measured range,50.72389,6.672267,-2.517167,10.15934,-0.200675,0.0,0.0,298,1073,J/mol·K,58.443,molecular,NIST-JANAF
+Inorganic Compound,Sulfur Dioxide,SO2,NaN,Gas,Constant,"point value, range by convention",39.87,0.0,0.0,0.0,0.0,0.0,0.0,273,323,J/mol·K,64.058,molecular,NIST-JANAF
+Inorganic Compound,Titanium Carbide (1000-3290K),TiC,NaN,Solid,Shomate,measured range,43.27,4.53336,2.0214,-0.203272,1.701881,0.0,0.0,1000,3290,J/mol·K,59.878,molecular,NIST-JANAF
+Inorganic Compound,Titanium Carbide (298-1000K),TiC,NaN,Solid,Shomate,measured range,5.55433,149.865,-171.069,67.1354,-0.269136,0.0,0.0,298,1000,J/mol·K,59.878,molecular,NIST-JANAF
+Inorganic Compound,Titanium Dioxide (Rutile),TiO2,NaN,Solid,Shomate,measured range,67.2983,18.7094,-11.579,2.44956,-1.48547,0.0,0.0,298,2000,J/mol·K,79.865,molecular,NIST-JANAF
+Inorganic Compound,Water (Liquid),H2O,NaN,Liquid,Shomate,measured range,-203.606,1523.29,-3196.413,2474.455,3.855,0.0,0.0,298,500,J/mol·K,18.015,molecular,NIST-JANAF
+Inorganic Compound,Water (Steam 100C) (1700-6000K),H2O,NaN,Gas,Shomate,measured range,41.96426,8.622053,-1.49978,0.098119,-11.15764,0.0,0.0,1700,6000,J/mol·K,18.0153,molecular,NIST-JANAF
+Inorganic Compound,Water (Steam 100C) (500-1700K),H2O,NaN,Gas,Shomate,measured range,30.092,6.832514,6.793435,-2.53448,0.082139,0.0,0.0,500,1700,J/mol·K,18.0153,molecular,NIST-JANAF
+Inorganic Compound,Zinc Oxide,ZnO,NaN,Solid,Shomate,measured range,40.2156,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,81.379,molecular,NIST-JANAF
+Organic Compound,Acetylene (1100-6000K),C2H2,NaN,Gas,Shomate,measured range,67.47244,11.7511,-2.02147,0.136195,-9.806418,0.0,0.0,1100,6000,J/mol·K,26.0373,molecular,NIST-JANAF
+Organic Compound,Acetylene (298-1100K),C2H2,NaN,Gas,Shomate,measured range,40.68697,40.73279,-16.1784,3.669741,-0.658411,0.0,0.0,298,1100,J/mol·K,26.0373,molecular,NIST-JANAF
+Organic Compound,Ethylene (1200-6000K),C2H4,NaN,Gas,Shomate,measured range,106.5104,13.7326,-2.628481,0.174595,-26.14469,0.0,0.0,1200,6000,J/mol·K,28.0532,molecular,NIST-JANAF
+Organic Compound,Ethylene (298-1200K),C2H4,NaN,Gas,Shomate,measured range,-6.38788,184.4019,-112.9718,28.49593,0.31554,0.0,0.0,298,1200,J/mol·K,28.0532,molecular,NIST-JANAF
+Organic Compound,Methane (1300-6000K),CH4,NaN,Gas,Shomate,measured range,85.81217,11.26467,-2.114146,0.13819,-26.42221,0.0,0.0,1300,6000,J/mol·K,16.0425,molecular,NIST-JANAF
+Organic Compound,Methane (298-1300K),CH4,NaN,Gas,Shomate,measured range,-0.703029,108.4773,-42.52157,5.862788,0.678565,0.0,0.0,298,1300,J/mol·K,16.0425,molecular,NIST-JANAF
+Organic Compound,Acetone,CH3COCH3,NaN,Liquid,Shomate,measured range,124.872,0.0,0.0,0.0,0.0,0.0,0.0,298,329,J/mol·K,58.08,molecular,NIST-JANAF
+Organic Compound,Acetonitrile,C2H3N,NaN,Liquid,Constant,"point value, range by convention",86.2113,0.0,0.0,0.0,0.0,0.0,0.0,298,355,J/mol·K,41.053,molecular,NIST-JANAF
+Organic Compound,Chloroform,CHCl3,NaN,Liquid,Shomate,measured range,114.59424,0.0,0.0,0.0,0.0,0.0,0.0,298,334,J/mol·K,119.369,molecular,NIST-JANAF
+Organic Compound,Dimethyl Sulfoxide (DMSO),C2H6OS,NaN,Liquid,Constant,"point value, range by convention",148.4451,0.0,0.0,0.0,0.0,0.0,0.0,298,462,J/mol·K,78.129,molecular,NIST-JANAF
+Element,Arsenic,As,NaN,Solid,Shomate,measured range,24.649338,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,74.922,molecular,NIST-JANAF
+Element,Cerium,Ce,NaN,Solid,Shomate,measured range,26.902272,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,140.116,molecular,NIST-JANAF
+Element,Lanthanum,La,NaN,Solid,Shomate,measured range,27.086475,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,138.905,molecular,NIST-JANAF
+Element,Neodymium,Nd,NaN,Solid,Shomate,measured range,27.40598,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,144.242,molecular,NIST-JANAF
+Element,Rhenium,Re,NaN,Solid,Shomate,measured range,25.510359,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,186.207,molecular,NIST-JANAF
+Element,Yttrium,Y,NaN,Solid,Shomate,measured range,26.493988,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,88.906,molecular,NIST-JANAF
+Inorganic Compound,Barium Titanate,BaTiO3,NaN,Solid,Constant,"point value, range by convention",121.25932,0.0,0.0,0.0,0.0,0.0,0.0,298,1078,J/mol·K,233.191,molecular,NIST-JANAF
+Ceramic,Boron Carbide (NASA CEA) (300-500K),B4C,NaN,Solid,NASA9,measured range,-35821153.9,674888.413,-5160.63008,20.4997351,-0.0445364877,5.0498313e-05,-2.340979136e-08,300,500,J/mol·K,55.251,molecular,NASA CEA
+Ceramic,Boron Carbide (NASA CEA) (500-2743K),B4C,NaN,Solid,NASA9,measured range,-577290.497,0.0,12.74373364,5.71820961e-05,1.287030822e-06,0.0,0.0,500,2743,J/mol·K,55.251,molecular,NASA CEA
+Ceramic,Forsterite (300-800K),Mg2SiO4,NaN,Solid,NASA9,measured range,921203.503,-15081.56349,90.8510222,-0.1898897815,0.0002890690717,-2.266693109e-07,7.23068825e-11,300,800,J/mol·K,140.691,molecular,NASA CEA
+Ceramic,Forsterite (800-2171K),Mg2SiO4,NaN,Solid,NASA9,measured range,3714548.59,-20415.18891,57.8800914,-0.0362987449,2.183358474e-05,-6.50480908e-09,7.90813368e-13,800,2171,J/mol·K,140.691,molecular,NASA CEA
+Ceramic,Zirconia (ZrO2) (1445-2620K),ZrO2,NaN,Solid,NASA9,measured range,0.0,0.0,9.393217399,0.0,0.0,0.0,0.0,1445,2620,J/mol·K,123.223,molecular,NASA CEA
+Ceramic,Zirconia (ZrO2) (2620-2983K),ZrO2,NaN,Solid,NASA9,measured range,0.0,0.0,9.621733572,0.0,0.0,0.0,0.0,2620,2983,J/mol·K,123.223,molecular,NASA CEA
+Ceramic,Zirconia (ZrO2) (300-500K),ZrO2,NaN,Solid,NASA9,measured range,-4214621.83,79187.3235,-607.126791,2.463358622,-0.00538866593,6.144154e-06,-2.860860736e-09,300,500,J/mol·K,123.223,molecular,NASA CEA
+Ceramic,Zirconia (ZrO2) (500-1445K),ZrO2,NaN,Solid,NASA9,measured range,-161691.1113,0.0,8.21846438,0.001091902502,0.0,0.0,0.0,500,1445,J/mol·K,123.223,molecular,NASA CEA
+Element,Argon (1000-6000K),Ar,NaN,Gas,NASA9,measured range,20.10538475,-0.0599266107,2.500069401,-3.99214116e-08,1.20527214e-11,-1.819015576e-15,1.078576636e-19,1000,6000,J/mol·K,39.948,molecular,NASA CEA
+Element,Argon (200-1000K),Ar,NaN,Gas,NASA9,measured range,0.0,0.0,2.5,0.0,0.0,0.0,0.0,200,1000,J/mol·K,39.948,molecular,NASA CEA
+Element,Argon (6000-20000K),Ar,NaN,Gas,NASA9,measured range,-995126508.0,645888.726,-167.5894697,0.02319933363,-1.721080911e-06,6.53193846e-11,-9.740147729e-16,6000,20000,J/mol·K,39.948,molecular,NASA CEA
+Element,Helium (1000-6000K),He,NaN,Gas,NASA9,measured range,0.0,0.0,2.5,0.0,0.0,0.0,0.0,1000,6000,J/mol·K,4.003,molecular,NASA CEA
+Element,Helium (300-1000K),He,NaN,Gas,NASA9,measured range,0.0,0.0,2.5,0.0,0.0,0.0,0.0,300,1000,J/mol·K,4.003,molecular,NASA CEA
+Element,Helium (6000-20000K),He,NaN,Gas,NASA9,measured range,3396845.42,-2194.037652,3.080231878,-8.06895755e-05,6.25278491e-09,-2.574990067e-13,4.429960218e-18,6000,20000,J/mol·K,4.003,molecular,NASA CEA
+Element,Krypton (1000-6000K),Kr,NaN,Gas,NASA9,measured range,264.3639057,-0.791005082,2.500920585,-5.32816411e-07,1.620730161e-10,-2.467898017e-14,1.47858504e-18,1000,6000,J/mol·K,83.798,molecular,NASA CEA
+Element,Krypton (300-1000K),Kr,NaN,Gas,NASA9,measured range,0.0,0.0,2.5,0.0,0.0,0.0,0.0,300,1000,J/mol·K,83.798,molecular,NASA CEA
+Element,Krypton (6000-20000K),Kr,NaN,Gas,NASA9,measured range,-1375531087.0,906403.053,-240.3481435,0.0337831203,-2.563103877e-06,9.96978779e-11,-1.5212496770000001e-15,6000,20000,J/mol·K,83.798,molecular,NASA CEA
+Element,Neon (1000-6000K),Ne,NaN,Gas,NASA9,measured range,0.0,0.0,2.5,0.0,0.0,0.0,0.0,1000,6000,J/mol·K,20.18,molecular,NASA CEA
+Element,Neon (300-1000K),Ne,NaN,Gas,NASA9,measured range,0.0,0.0,2.5,0.0,0.0,0.0,0.0,300,1000,J/mol·K,20.18,molecular,NASA CEA
+Element,Neon (6000-20000K),Ne,NaN,Gas,NASA9,measured range,-12382527.46,6958.57958,1.016709287,0.0001424664555,-4.80393393e-09,-1.170213183e-13,8.415153652e-18,6000,20000,J/mol·K,20.18,molecular,NASA CEA
+Element,Radon (1000-6000K),Rn,NaN,Gas,NASA9,measured range,27301.90029,-82.8467262,2.598178483,-5.81372985e-05,1.819136527e-08,-2.866656182e-12,1.7893221759999998e-16,1000,6000,J/mol·K,222.0,molecular,NASA CEA
+Element,Radon (300-1000K),Rn,NaN,Gas,NASA9,measured range,3.38943209e-06,-1.311675533e-07,2.500000001,-2.978593139e-12,4.3370507300000004e-15,-3.18204022e-18,9.24778703e-22,300,1000,J/mol·K,222.0,molecular,NASA CEA
+Element,Radon (6000-20000K),Rn,NaN,Gas,NASA9,measured range,918086668.0,-624585.46,172.4946531,-0.02325758595,1.636222413e-06,-5.36917315e-11,6.507189926e-16,6000,20000,J/mol·K,222.0,molecular,NASA CEA
+Element,Xenon (1000-6000K),Xe,NaN,Gas,NASA9,measured range,4025.22668,-12.09507521,2.514153347,-8.24810208e-06,2.530232618e-09,-3.89233323e-13,2.360439138e-17,1000,6000,J/mol·K,131.293,molecular,NASA CEA
+Element,Xenon (300-1000K),Xe,NaN,Gas,NASA9,measured range,0.0,0.0,2.5,0.0,0.0,0.0,0.0,300,1000,J/mol·K,131.293,molecular,NASA CEA
+Element,Xenon (6000-20000K),Xe,NaN,Gas,NASA9,measured range,254039745.6,-110537.3774,13.82644099,0.001500614606,-3.93535903e-07,2.765790584e-11,-5.943990574e-16,6000,20000,J/mol·K,131.293,molecular,NASA CEA
+Element,Bromine (266-333K),Br2,NaN,Liquid,NASA9,measured range,5661619.72,-60027.8872,39.635728,2.194289283,-0.012096161,2.608732123e-05,-2.065978604e-08,266,333,J/mol·K,159.808,molecular,NASA CEA
+Element,Bromine (333-6000K),Br2,NaN,Liquid,NASA9,measured range,0.0,0.0,9.056697268,0.0,0.0,0.0,0.0,333,6000,J/mol·K,159.808,molecular,NASA CEA
+Element,Mercury (234-600K),Hg,NaN,Liquid,NASA9,measured range,105832.5418,-1993.82615,18.80577074,-0.0599468092,0.000122832703,-1.293155349e-07,5.53073443e-11,234,600,J/mol·K,200.592,molecular,NASA CEA
+Element,Mercury (600-2000K),Hg,NaN,Liquid,NASA9,measured range,791384.008,-3956.32706,11.06465862,-0.00815398265,4.97050416e-06,-1.510428227e-09,1.872051162e-13,600,2000,J/mol·K,200.592,molecular,NASA CEA
+Element,Beryllium (100-298K),Be,NaN,Solid,NASA9,measured range,3532.378938,0.0,-1.82752802,0.01895481514,-2.121592253e-05,0.0,0.0,100,298,J/mol·K,9.012,molecular,NASA CEA
+Element,Beryllium (1543-1563K),Be,NaN,Solid,NASA9,measured range,0.0,0.0,3.608150089,0.0,0.0,0.0,0.0,1543,1563,J/mol·K,9.012,molecular,NASA CEA
+Element,Beryllium (298-1543K),Be,NaN,Solid,NASA9,measured range,-70647.57875,0.0,2.550360755,0.000684826887,1.157013462e-07,0.0,0.0,298,1543,J/mol·K,9.012,molecular,NASA CEA
+Element,Cadmium,Cd,NaN,Solid,NASA9,measured range,137527.3221,-3221.59007,31.21905502,-0.1226136798,0.0002838880568,-3.28688402e-07,1.520469817e-10,100,594,J/mol·K,112.414,molecular,NASA CEA
+Element,Calcium (298-716K),Ca,NaN,Solid,NASA9,measured range,8959.6321,0.0,2.440591375,0.001722094077,4.74400049e-07,0.0,0.0,298,716,J/mol·K,40.078,molecular,NASA CEA
+Element,Calcium (716-1115K),Ca,NaN,Solid,NASA9,measured range,0.0,0.0,5.701117685,-0.005810564904,4.022125176e-06,0.0,0.0,716,1115,J/mol·K,40.078,molecular,NASA CEA
+Semiconductor,Germanium (300-400K),Ge,NaN,Solid,NASA9,measured range,-239650.6145,3150.57215,-13.33941357,0.0364799781,-2.942104614e-05,0.0,0.0,300,400,J/mol·K,72.63,molecular,NASA CEA
+Semiconductor,Germanium (400-1211K),Ge,NaN,Solid,NASA9,measured range,-18882.41797,0.0,2.89817307,0.000359165913,0.0,0.0,0.0,400,1211,J/mol·K,72.63,molecular,NASA CEA
+Element,Indium,In,NaN,Solid,NASA9,measured range,8511.61687,-345.047004,6.83878517,-0.01818530679,4.12242142e-05,-2.96000873e-08,0.0,100,430,J/mol·K,114.818,molecular,NASA CEA
+Element,Iodine,I2,NaN,Solid,NASA9,measured range,-3901269.14,91432.0233,-890.04575,4.67127016,-0.01357161837,2.073947355e-05,-1.292905191e-08,300,387,J/mol·K,253.809,molecular,NASA CEA
+Element,Scandium (100-400K),Sc,NaN,Solid,NASA9,measured range,-5723.53769,0.0,1.835072325,0.00947886199,-2.317188582e-05,2.004221829e-08,0.0,100,400,J/mol·K,44.956,molecular,NASA CEA
+Element,Scandium (1609-1814K),Sc,NaN,Solid,NASA9,measured range,0.0,0.0,5.316007798,0.0,0.0,0.0,0.0,1609,1814,J/mol·K,44.956,molecular,NASA CEA
+Element,Scandium (400-1609K),Sc,NaN,Solid,NASA9,measured range,-22964.09436,0.0,3.59029691,-0.001480249906,2.132230702e-06,-4.6535986e-10,0.0,400,1609,J/mol·K,44.956,molecular,NASA CEA
+Element,Silver,Ag,NaN,Solid,NASA9,measured range,-70992.3647,725.478802,0.106651838,0.00552954155,-4.42559085e-06,2.09166812e-09,-3.88892446e-13,300,1235,J/mol·K,107.868,molecular,NASA CEA
+Element,Strontium (100-298K),Sr,NaN,Solid,NASA9,measured range,-4150.24567,155.9823384,-0.2623173257,0.02945369354,-0.0001212940361,2.401045642e-07,-1.708772572e-10,100,298,J/mol·K,87.62,molecular,NASA CEA
+Element,Strontium (298-820K),Sr,NaN,Solid,NASA9,measured range,129441.2876,-1646.17918,11.11114164,-0.01973737192,2.910871519e-05,-2.163423606e-08,6.50816086e-12,298,820,J/mol·K,87.62,molecular,NASA CEA
+Element,Strontium (820-1041K),Sr,NaN,Solid,NASA9,measured range,0.0,0.0,3.190326309,0.0004837326553,0.0,0.0,0.0,820,1041,J/mol·K,87.62,molecular,NASA CEA
+Element,Thorium (1650-2023K),Th,NaN,Solid,NASA9,measured range,8360316.57,-23333.27743,27.83594798,-0.01293559561,3.96609804e-06,-4.36198444e-10,0.0,1650,2023,J/mol·K,232.038,molecular,NASA CEA
+Element,Thorium (300-1650K),Th,NaN,Solid,NASA9,measured range,-14532.47151,150.5222433,2.270694767,0.002058614354,-9.21661467e-07,4.31679634e-10,-7.9506568e-14,300,1650,J/mol·K,232.038,molecular,NASA CEA
+Element,Tin,Sn,NaN,Solid,NASA9,measured range,-997056.811,18650.56292,-139.3005103,0.565280087,-0.001229162587,1.398259924e-06,-6.46584327e-10,300,505,J/mol·K,118.71,molecular,NASA CEA
+Element,Uranium (1049-1408K),U,NaN,Solid,NASA9,measured range,0.0,0.0,4.606404947,0.0,0.0,0.0,0.0,1049,1408,J/mol·K,238.029,molecular,NASA CEA
+Element,Uranium (300-942K),U,NaN,Solid,NASA9,measured range,-15408.99462,231.8801962,1.22794451,0.00713611748,-1.018038579e-05,1.13688437e-08,-3.66936743e-12,300,942,J/mol·K,238.029,molecular,NASA CEA
+Element,Uranium (942-1049K),U,NaN,Solid,NASA9,measured range,0.0,0.0,5.099518793,0.0,0.0,0.0,0.0,942,1049,J/mol·K,238.029,molecular,NASA CEA
+Ceramic,Alumina (Al2O3) (1200-2327K),Al2O3,NaN,Solid,NASA9,measured range,0.0,0.0,12.93774378,0.001992781294,0.0,0.0,0.0,1200,2327,J/mol·K,101.961,molecular,NASA CEA
+Ceramic,Alumina (Al2O3) (300-500K),Al2O3,NaN,Solid,NASA9,measured range,-5391549.97,103667.6983,-817.322915,3.38825872,-0.00751240036,8.65924882e-06,-4.06608567e-09,300,500,J/mol·K,101.961,molecular,NASA CEA
+Ceramic,Alumina (Al2O3) (500-1200K),Al2O3,NaN,Solid,NASA9,measured range,-604208.7868,0.0,14.75480816,0.0008272285438,0.0,0.0,0.0,500,1200,J/mol·K,101.961,molecular,NASA CEA
+Inorganic Compound,Calcium Carbonate (300-500K),CaCO3,NaN,Solid,NASA9,measured range,-13298624.25,250051.7168,-1907.177167,7.61666627,-0.0165587086,1.879382277e-05,-8.72071327e-09,300,500,J/mol·K,100.086,molecular,NASA CEA
+Inorganic Compound,Calcium Carbonate (500-1603K),CaCO3,NaN,Solid,NASA9,measured range,-258355.5736,0.0,11.97256363,0.003263812299,0.0,0.0,0.0,500,1603,J/mol·K,100.086,molecular,NASA CEA
+Inorganic Compound,Crystalline Silica (SiO2) (1200-1996K),SiO2,NaN,Solid (crystalline),NASA9,measured range,-535641.9079,0.0,9.331036946,-0.0007306503931,3.339944266e-07,0.0,0.0,1200,1996,J/mol·K,60.083,molecular,NASA CEA
+Inorganic Compound,Crystalline Silica (SiO2) (300-848K),SiO2,NaN,Solid (crystalline),NASA9,measured range,-577689.55,7214.66111,-31.45730294,0.0741217715,-8.67007782e-06,-1.080461312e-07,8.31632491e-11,300,848,J/mol·K,60.083,molecular,NASA CEA
+Inorganic Compound,Crystalline Silica (SiO2) (848-1200K),SiO2,NaN,Solid (crystalline),NASA9,measured range,23176.35074,0.0,7.026511484,0.001241925261,0.0,0.0,0.0,848,1200,J/mol·K,60.083,molecular,NASA CEA
+Inorganic Compound,Silicon Nitride (100-298K),Si3N4,NaN,Solid,NASA9,measured range,-11364.34515,0.0,-0.499343571,0.0396231894,0.0,0.0,0.0,100,298,J/mol·K,140.283,molecular,NASA CEA
+Inorganic Compound,Silicon Nitride (298-4000K),Si3N4,NaN,Solid,NASA9,measured range,-291045.4134,0.0,11.89210188,0.009349799327,-2.551082385e-06,2.857654871e-10,0.0,298,4000,J/mol·K,140.283,molecular,NASA CEA
+Inorganic Compound,Water (Ice -10C),H2O,NaN,Solid,NASA9,measured range,-402677.748,2747.887946,57.3833663,-0.826791524,0.00441308798,-1.054251164e-05,9.69449597e-09,200,273,J/mol·K,18.015,molecular,NASA CEA
+Organic Compound,Benzene (gas) (1000-6000K),C6H6,NaN,Gas,NASA9,measured range,4538575.72,-22605.02547,46.940073,-0.00420667683,7.90799433e-07,-7.9683021e-11,3.32821208e-15,1000,6000,J/mol·K,78.114,molecular,NASA CEA
+Organic Compound,Benzene (gas) (300-1000K),C6H6,NaN,Gas,NASA9,measured range,-167734.0902,4404.50004,-37.1737791,0.1640509559,-0.0002020812374,1.307915264e-07,-3.4442841e-11,300,1000,J/mol·K,78.114,molecular,NASA CEA
+Organic Compound,Butane (1000-6000K),C4H10,NaN,Gas,NASA9,measured range,7682322.45,-32560.5151,57.3673275,-0.00619791681,1.180186048e-06,-1.221893698e-10,5.250635250000001e-15,1000,6000,J/mol·K,58.124,molecular,NASA CEA
+Organic Compound,Butane (300-1000K),C4H10,NaN,Gas,NASA9,measured range,-317587.254,6176.33182,-38.9156212,0.1584654284,-0.0001860050159,1.199676349e-07,-3.20167055e-11,300,1000,J/mol·K,58.124,molecular,NASA CEA
+Organic Compound,Ethane (1000-6000K),C2H6,NaN,Gas,NASA9,measured range,5025782.13,-20330.22397,33.2255293,-0.00383670341,7.23840586e-07,-7.3191825e-11,3.065468699e-15,1000,6000,J/mol·K,30.07,molecular,NASA CEA
+Organic Compound,Ethane (300-1000K),C2H6,NaN,Gas,NASA9,measured range,-186204.4161,3406.19186,-19.51705092,0.0756583559,-8.20417322e-05,5.0611358e-08,-1.319281992e-11,300,1000,J/mol·K,30.07,molecular,NASA CEA
+Organic Compound,Propane (1000-6000K),C3H8,NaN,Gas,NASA9,measured range,6420731.68,-26597.91134,45.3435684,-0.00502066392,9.47121694e-07,-9.57540523e-11,4.0096728800000006e-15,1000,6000,J/mol·K,44.097,molecular,NASA CEA
+Organic Compound,Propane (300-1000K),C3H8,NaN,Gas,NASA9,measured range,-243314.4337,4656.27081,-29.39466091,0.1188952745,-0.0001376308269,8.81482391e-08,-2.342987994e-11,300,1000,J/mol·K,44.097,molecular,NASA CEA
+Organic Compound,Propylene (1000-6000K),C3H6,NaN,Gas,NASA9,measured range,5017620.34,-20860.84035,36.4415634,-0.00388119117,7.27867719e-07,-7.3212045e-11,3.052176369e-15,1000,6000,J/mol·K,42.081,molecular,NASA CEA
+Organic Compound,Propylene (300-1000K),C3H6,NaN,Gas,NASA9,measured range,-191246.2174,3542.07424,-21.14878626,0.0890148479,-0.0001001429154,6.26795939e-08,-1.637870781e-11,300,1000,J/mol·K,42.081,molecular,NASA CEA
+Organic Compound,Benzene,C6H6,NaN,Liquid,NASA9,measured range,-2291003.94,36920.5816,-182.0019971,0.2634137216,0.000974258592,-3.30790915e-06,2.888191394e-09,279,500,J/mol·K,78.114,molecular,NASA CEA
+Organic Compound,Ethanol,C2H5OH,NaN,Liquid,NASA9,measured range,450111.594,-10208.2899,101.426678,-0.387467261,0.000712139261,-1.85707145e-07,-2.03762257e-10,159,390,J/mol·K,46.069,molecular,NASA CEA
+Organic Compound,Hexane,C6H14,NaN,Liquid,NASA9,measured range,7721016.13,-224929.8616,2717.090647,-16.98251992,0.0590721518,-0.0001074528475,8.02423827e-08,178,300,J/mol·K,86.178,molecular,NASA CEA
+Organic Compound,Methanol,CH3OH,NaN,Liquid,NASA9,measured range,-1302004.763,31669.8418,-303.1242152,1.60223113,-0.00459450734,6.99017831e-06,-4.20738895e-09,176,390,J/mol·K,32.042,molecular,NASA CEA
+Organic Compound,Toluene,C7H8,NaN,Liquid,NASA9,measured range,-3713549.51,77725.2903,-631.226986,2.724391982,-0.00610353508,7.0224219e-06,-3.11371568e-09,178,500,J/mol·K,92.141,molecular,NASA CEA
+Ceramic,Cordierite,Mg2Al4Si5O18,NaN,Solid,Constant,"point value, range by convention",427.00985,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,584.945,molecular,MatWeb
+Ceramic,Sialon,SiAlON,NaN,Solid,Constant,"point value, range by convention",58.70037,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,85.073,molecular,MatWeb
+Ceramic,Steatite,MgSiO3,NaN,Solid,Constant,"point value, range by convention",68.26316,0.0,0.0,0.0,0.0,0.0,0.0,298,498,J/mol·K,100.387,molecular,MatWeb
+Composite,Al-Al2O3 MMC,NaN,Al-Al2O3,Solid,Constant,"point value, range by convention",0.8,0.0,0.0,0.0,0.0,0.0,0.0,298,800,J/g·K,NaN,"not defined, a multi phase material",MatWeb
+Composite,Al-SiC MMC,NaN,Al-SiC,Solid,Constant,"point value, range by convention",0.82,0.0,0.0,0.0,0.0,0.0,0.0,298,800,J/g·K,NaN,"not defined, a multi phase material",MatWeb
+Composite,CFRP (Carbon Fiber Epoxy),NaN,C-fiber/Epoxy,Solid,Constant,"point value, range by convention",0.9,0.0,0.0,0.0,0.0,0.0,0.0,298,500,J/g·K,NaN,"not defined, a multi phase material",MatWeb
+Composite,Carbon-Carbon Composite,NaN,C/C,Solid,Constant,"point value, range by convention",0.8,0.0,0.0,0.0,0.0,0.0,0.0,298,1498,J/g·K,NaN,"not defined, a multi phase material",MatWeb
+Composite,GFRP (Fiberglass),NaN,Glass/Epoxy,Solid,Constant,"point value, range by convention",0.85,0.0,0.0,0.0,0.0,0.0,0.0,298,500,J/g·K,NaN,"not defined, a multi phase material",MatWeb
+Composite,Mg-SiC MMC,NaN,Mg-SiC,Solid,Constant,"point value, range by convention",0.95,0.0,0.0,0.0,0.0,0.0,0.0,298,750,J/g·K,NaN,"not defined, a multi phase material",MatWeb
+Composite,SiC-SiC Composite,NaN,SiC/SiC,Solid,Constant,"point value, range by convention",0.72,0.0,0.0,0.0,0.0,0.0,0.0,298,1378,J/g·K,NaN,"not defined, a multi phase material",MatWeb
+Composite,Wood Polymer Composite,NaN,Wood/PP,Solid,Constant,"point value, range by convention",1.4,0.0,0.0,0.0,0.0,0.0,0.0,298,450,J/g·K,NaN,"not defined, a multi phase material",MatWeb
+Alloy,Aluminum 7075-T6,NaN,Al-Zn-Mg,Solid,Constant,"point value, range by convention",0.88,0.0,0.0,0.0,0.0,0.0,0.0,298,750,J/g·K,NaN,"not defined, alloys are metallic mixtures",MatWeb
+Alloy,Beryllium Copper (C17200),NaN,Cu-Be-Co,Solid,Constant,"point value, range by convention",0.42,0.0,0.0,0.0,0.0,0.0,0.0,298,583,J/g·K,NaN,"not defined, alloys are metallic mixtures",MatWeb
+Alloy,Cemented Tungsten Carbide,NaN,WC-Co,Solid,Constant,"point value, range by convention",0.23,0.0,0.0,0.0,0.0,0.0,0.0,298,643,J/g·K,NaN,"not defined, alloys are metallic mixtures",MatWeb
+Alloy,Hastelloy C-276,NaN,Ni-Mo-Cr,Solid,Constant,"point value, range by convention",0.42,0.0,0.0,0.0,0.0,0.0,0.0,298,613,J/g·K,NaN,"not defined, alloys are metallic mixtures",MatWeb
+Alloy,Incoloy 800,NaN,Fe-Ni-Cr,Solid,Constant,"point value, range by convention",0.46,0.0,0.0,0.0,0.0,0.0,0.0,298,643,J/g·K,NaN,"not defined, alloys are metallic mixtures",MatWeb
+Alloy,Magnesium AZ91D,NaN,Mg-Al-Zn,Solid,Constant,"point value, range by convention",1.05,0.0,0.0,0.0,0.0,0.0,0.0,298,750,J/g·K,NaN,"not defined, alloys are metallic mixtures",MatWeb
+Alloy,Solder 60/40 PbSn,NaN,Pb-Sn,Solid,Constant,"point value, range by convention",0.17,0.0,0.0,0.0,0.0,0.0,0.0,298,450,J/g·K,NaN,"not defined, alloys are metallic mixtures",MatWeb
+Alloy,Zircaloy-4,NaN,Zr-Sn-Fe-Cr,Solid,Constant,"point value, range by convention",0.28,0.0,0.0,0.0,0.0,0.0,0.0,298,718,J/g·K,NaN,"not defined, alloys are metallic mixtures",MatWeb
+Glass,Aluminosilicate Glass,NaN,SiO2-Al2O3,Solid,Constant,"point value, range by convention",0.78,0.0,0.0,0.0,0.0,0.0,0.0,298,1100,J/g·K,NaN,"not defined, an amorphous network",MatWeb
+Glass,Borosilicate (Pyrex),NaN,SiO2-B2O3,Solid,Constant,"point value, range by convention",0.75,0.0,0.0,0.0,0.0,0.0,0.0,298,1000,J/g·K,NaN,"not defined, an amorphous network",MatWeb
+Glass,Lead Glass,NaN,SiO2-PbO,Solid,Constant,"point value, range by convention",0.62,0.0,0.0,0.0,0.0,0.0,0.0,298,900,J/g·K,NaN,"not defined, an amorphous network",MatWeb
+Glass,Soda-Lime Glass,NaN,SiO2-Na2O-CaO,Solid,Constant,"point value, range by convention",0.84,0.0,0.0,0.0,0.0,0.0,0.0,298,900,J/g·K,NaN,"not defined, an amorphous network",MatWeb
+Inorganic Compound,Tungsten Carbide,WC,NaN,Solid,Constant,"point value, range by convention",39.8,0.0,0.0,0.0,0.0,0.0,0.0,298,763,J/mol·K,195.851,molecular,NIST-JANAF
+Mixture,Coolant 50/50 (EG/Water),NaN,C2H6O2/H2O,Liquid,Constant,"point value, range by convention",3.3,0.0,0.0,0.0,0.0,0.0,0.0,298,450,J/g·K,NaN,"not defined, a liquid mixture",MatWeb
+Ceramic,Common Brick,NaN,SiO2-Al2O3-Fe2O3,Solid,Constant,"point value, range by convention",0.9,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, a fired mixture not one compound",Engineering ToolBox
+Ceramic,Concrete (Stone),NaN,CaO-SiO2-Al2O3,Solid,Constant,"point value, range by convention",0.75,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, a fired mixture not one compound",Engineering ToolBox
+Ceramic,Fire Brick,NaN,Al2O3-SiO2,Solid,Constant,"point value, range by convention",1.05,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, a fired mixture not one compound",Engineering ToolBox
+Ceramic,Gypsum,NaN,CaSO4-2H2O,Solid,Constant,"point value, range by convention",1.09,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, a fired mixture not one compound",Engineering ToolBox
+Ceramic,Porcelain,NaN,Al2O3-SiO2-K2O,Solid,Constant,"point value, range by convention",1.07,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, a fired mixture not one compound",Engineering ToolBox
+Element,Diamond,C,NaN,Solid,Constant,"point value, range by convention",6.24572,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/mol·K,12.011,molecular,Engineering ToolBox
+Element,Graphite,C,NaN,Solid,Constant,"point value, range by convention",8.52781,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/mol·K,12.011,molecular,Engineering ToolBox
+Element,Iridium,Ir,NaN,Solid,Constant,"point value, range by convention",24.98821,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/mol·K,192.217,molecular,Engineering ToolBox
+Element,Rhodium,Rh,NaN,Solid,Constant,"point value, range by convention",24.69744,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/mol·K,102.906,molecular,Engineering ToolBox
+Alloy,Constantan,NaN,Cu55Ni45,Solid,Constant,"point value, range by convention",0.41,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, alloys are metallic mixtures",Engineering ToolBox
+Alloy,Duralumin,NaN,Al-Cu-Mg,Solid,Constant,"point value, range by convention",0.92,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, alloys are metallic mixtures",Engineering ToolBox
+Alloy,Nichrome 80/20,NaN,Ni80Cr20,Solid,Constant,"point value, range by convention",0.5,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, alloys are metallic mixtures",Engineering ToolBox
+Mineral & Construction,Basalt,NaN,SiO2-Al2O3-FeO-CaO-MgO,Solid,Constant,"point value, range by convention",0.84,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Mineral & Construction,Cork,NaN,(C6H10O5)n + suberin,Solid,Constant,"point value, range by convention",1.9,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Mineral & Construction,Granite,NaN,SiO2-Al2O3-K2O,Solid,Constant,"point value, range by convention",0.79,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Mineral & Construction,Limestone,NaN,CaCO3 (predominant phase),Solid,Constant,"point value, range by convention",0.91,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Mineral & Construction,Marble,NaN,CaCO3 (predominant phase),Solid,Constant,"point value, range by convention",0.88,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Mineral & Construction,Natural Rubber,NaN,(C5H8)n,Solid,Constant,"point value, range by convention",2.01,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Mineral & Construction,Paraffin Wax,NaN,CnH2n+2,Solid,Constant,"point value, range by convention",2.9,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Mineral & Construction,Sandstone,NaN,SiO2 (predominant phase),Solid,Constant,"point value, range by convention",0.92,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Mineral & Construction,Wood (Oak),NaN,(C6H10O5)n,Solid,Constant,"point value, range by convention",2.0,0.0,0.0,0.0,0.0,0.0,0.0,293,323,J/g·K,NaN,"not defined, natural material of variable makeup",Engineering ToolBox
+Polymer,ABS,NaN,(C8H8·C4H6·C3H3N)n,Solid,Constant,"point value, range by convention",1.35,0.0,0.0,0.0,0.0,0.0,0.0,298,400,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Cellulose,NaN,(C6H10O5)n,Solid,Constant,"point value, range by convention",1.4,0.0,0.0,0.0,0.0,0.0,0.0,298,500,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Epoxy Resin (Bisphenol A),NaN,Crosslinked,Solid,Constant,"point value, range by convention",1.15,0.0,0.0,0.0,0.0,0.0,0.0,298,450,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,HDPE,NaN,(C2H4)n,Solid,Constant,"point value, range by convention",2.25,0.0,0.0,0.0,0.0,0.0,0.0,298,400,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,LDPE,NaN,(C2H4)n,Solid,Constant,"point value, range by convention",2.3,0.0,0.0,0.0,0.0,0.0,0.0,298,400,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Nylon 6,NaN,(C6H11NO)n,Solid,Constant,"point value, range by convention",1.65,0.0,0.0,0.0,0.0,0.0,0.0,298,500,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,"Nylon 6, 6",NaN,(C12H22N2O2)n,Solid,Constant,"point value, range by convention",1.67,0.0,0.0,0.0,0.0,0.0,0.0,298,520,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,PEEK,NaN,(C19H12O3)n,Solid,Constant,"point value, range by convention",1.15,0.0,0.0,0.0,0.0,0.0,0.0,298,550,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,PET,NaN,(C10H8O4)n,Solid,Constant,"point value, range by convention",1.2,0.0,0.0,0.0,0.0,0.0,0.0,298,500,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,PMMA (Acrylic),NaN,(C5O2H8)n,Solid,Constant,"point value, range by convention",1.46,0.0,0.0,0.0,0.0,0.0,0.0,298,390,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,PTFE (Teflon),NaN,(C2F4)n,Solid,Constant,"point value, range by convention",1.05,0.0,0.0,0.0,0.0,0.0,0.0,298,600,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,PVC,NaN,(C2H3Cl)n,Solid,Constant,"point value, range by convention",0.9,0.0,0.0,0.0,0.0,0.0,0.0,298,350,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Polycarbonate (PC),NaN,(C16H14O3)n,Solid,Constant,"point value, range by convention",1.25,0.0,0.0,0.0,0.0,0.0,0.0,298,420,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Polyimide (Kapton),NaN,(C22H10N2O5)n,Solid,Constant,"point value, range by convention",1.09,0.0,0.0,0.0,0.0,0.0,0.0,298,600,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Polypropylene (PP),NaN,(C3H6)n,Solid,Constant,"point value, range by convention",1.92,0.0,0.0,0.0,0.0,0.0,0.0,298,450,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Polystyrene (PS),NaN,(C8H8)n,Solid,Constant,"point value, range by convention",1.3,0.0,0.0,0.0,0.0,0.0,0.0,298,380,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Polysulfone,NaN,(C27H22O4S)n,Solid,Constant,"point value, range by convention",1.1,0.0,0.0,0.0,0.0,0.0,0.0,298,500,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Polyurethane (Rigid),NaN,Polyurethane,Solid,Constant,"point value, range by convention",1.5,0.0,0.0,0.0,0.0,0.0,0.0,298,400,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Polymer,Silicone Rubber,NaN,(R2SiO)n,Solid,Constant,"point value, range by convention",1.25,0.0,0.0,0.0,0.0,0.0,0.0,298,500,J/g·K,NaN,"varies with chain length, so given per gram",PoLyInfo (NIMS)
+Alloy,Cast Iron (Gray),NaN,Fe-C-Si,Solid,Constant,"point value, range by convention",0.49,0.0,0.0,0.0,0.0,0.0,0.0,298,666,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Ductile Iron,NaN,Fe-C-Si-Mg,Solid,Constant,"point value, range by convention",0.51,0.0,0.0,0.0,0.0,0.0,0.0,298,681,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Stainless Steel 304,NaN,Fe-Cr-Ni,Solid,Constant,"point value, range by convention",0.5,0.0,0.0,0.0,0.0,0.0,0.0,298,673,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Stainless Steel 316,NaN,Fe-Cr-Ni-Mo,Solid,Constant,"point value, range by convention",0.5,0.0,0.0,0.0,0.0,0.0,0.0,298,673,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Stainless Steel 410,NaN,Fe-Cr,Solid,Constant,"point value, range by convention",0.46,0.0,0.0,0.0,0.0,0.0,0.0,298,643,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Semiconductor,Cadmium Telluride,CdTe,NaN,Solid,Constant,"point value, range by convention",50.40294,0.0,0.0,0.0,0.0,0.0,0.0,298,613,J/mol·K,240.014,molecular,Springer Materials
+Semiconductor,Gallium Arsenide,GaAs,NaN,Solid,Constant,"point value, range by convention",50.62575,0.0,0.0,0.0,0.0,0.0,0.0,298,823,J/mol·K,144.645,molecular,Springer Materials
+Semiconductor,Gallium Nitride,GaN,NaN,Solid,Constant,"point value, range by convention",40.1904,0.0,0.0,0.0,0.0,0.0,0.0,298,1018,J/mol·K,83.73,molecular,Springer Materials
+Semiconductor,Indium Phosphide,InP,NaN,Solid,Constant,"point value, range by convention",43.7376,0.0,0.0,0.0,0.0,0.0,0.0,298,748,J/mol·K,145.792,molecular,Springer Materials
+Semiconductor,Silicon Germanium,SiGe,NaN,Solid,Constant,"point value, range by convention",60.429,0.0,0.0,0.0,0.0,0.0,0.0,298,1198,J/mol·K,100.715,molecular,Springer Materials
+Organic Compound,Ethylene Glycol,C2H6O2,NaN,Liquid,Shomate,measured range,148.9632,0.0,0.0,0.0,0.0,0.0,0.0,298,470,J/mol·K,62.068,molecular,CRC Handbook
+Organic Compound,Glycerol,C3H8O3,NaN,Liquid,Shomate,measured range,221.94654,0.0,0.0,0.0,0.0,0.0,0.0,298,563,J/mol·K,92.094,molecular,CRC Handbook
+Inorganic Compound,Lithium Cobalt Oxide,LiCoO2,NaN,Solid,Constant,"point value, range by convention",77.31809,0.0,0.0,0.0,0.0,0.0,0.0,298,891,J/mol·K,97.871,molecular,IVTAN
+Inorganic Compound,Lithium Iron Phosphate,LiFePO4,NaN,Solid,Constant,"point value, range by convention",89.92035,0.0,0.0,0.0,0.0,0.0,0.0,298,726,J/mol·K,157.755,molecular,IVTAN
+Alloy,Inconel 625,NaN,Ni-Cr-Mo,Solid,Constant,"point value, range by convention",0.41,0.0,0.0,0.0,0.0,0.0,0.0,298,606,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Inconel 718,NaN,Ni-Cr-Fe,Solid,Constant,"point value, range by convention",0.435,0.0,0.0,0.0,0.0,0.0,0.0,298,624,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Monel 400,NaN,Ni-Cu,Solid,Constant,"point value, range by convention",0.427,0.0,0.0,0.0,0.0,0.0,0.0,298,618,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Brass 60/40,NaN,Cu60Zn40,Solid,Constant,"point value, range by convention",0.38,0.0,0.0,0.0,0.0,0.0,0.0,298,583,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Brass 70/30,NaN,Cu70Zn30,Solid,Constant,"point value, range by convention",0.38,0.0,0.0,0.0,0.0,0.0,0.0,298,583,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Bronze (Phosphor),NaN,Cu-Sn-P,Solid,Constant,"point value, range by convention",0.378,0.0,0.0,0.0,0.0,0.0,0.0,298,582,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Carbon Steel 1020,NaN,Fe-C,Solid,Constant,"point value, range by convention",0.486,0.0,0.0,0.0,0.0,0.0,0.0,298,663,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Carbon Steel 4140,NaN,Fe-C-Cr-Mo,Solid,Constant,"point value, range by convention",0.48,0.0,0.0,0.0,0.0,0.0,0.0,298,658,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Alloy,Kovar,NaN,Fe-Ni-Co,Solid,Constant,"point value, range by convention",0.46,0.0,0.0,0.0,0.0,0.0,0.0,298,643,J/g·K,NaN,"not defined, alloys are metallic mixtures",ASM / producer datasheets
+Mixture,Engine Oil SAE 40,NaN,Hydrocarbon,Liquid,Constant,"point value, range by convention",1.9,0.0,0.0,0.0,0.0,0.0,0.0,298,473,J/g·K,NaN,"not defined, a liquid mixture",ASHRAE
+Ceramic,Zirconia (ZrO2) (NIST-JANAF) (298-1478K),ZrO2,NaN,Solid,Shomate,measured range,69.20001,8.54829,-0.862921,0.246374,-1.382767,0,0,298,1478,J/mol·K,123.223,molecular,NIST-JANAF
+Ceramic,Zirconia (ZrO2) (NIST-JANAF) (1478-2950K),ZrO2,NaN,Solid,Shomate,measured range,74.4752,0.0,0.0,0.0,0.0,0,0,1478,2950,J/mol·K,123.223,molecular,NIST-JANAF
+Ceramic,Zirconia (ZrO2) (NIST-JANAF) (2950-5000K),ZrO2,NaN,Liquid,Shomate,measured range,87.8637,0.000141,-2.7e-05,2e-06,0.000393,0,0,2950,5000,J/mol·K,123.223,molecular,NIST-JANAF
